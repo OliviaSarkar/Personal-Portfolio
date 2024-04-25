@@ -1,0 +1,44 @@
+Email:oliviasarkar41732@gmail.com
+Linkedin: www.linkedin.com/in/olivia-sarkar-14688b205
+Objective:
+A highly motivated and skilled Web Developer with a passion for creating engaging and user-friendly websites, seeking a challenging position where I can utilize my technical knowledge to contribute to the success of a dynamic organization.
+Education:
+ Kalinga Institute of Industrial Technology     Bachelor of Technology in Computer Science (2019-23)
+ Kalyani Central Model School, Kalyani          Class 12 (CBSE) (2017-19)
+ SpringDale High School, Kalyani                      Class 10 (ICSE) (2017) 
+ Relevant Coursework:
+⦁	Data Structure
+⦁	Computer Network
+⦁	Operating System
+⦁	Database Management
+⦁	Object Oriented Programing
+ Programming Languages:
+    HTML5
+    CSS3
+    JavaScript
+    Python
+Frameworks/Libraries:
+   React.js
+   AngularJS
+   jQuery
+Tools/Technologies:
+  Git
+  Bootstrap
+ Database Management:
+ MySQL
+ MongoDB
+ Project:
+ Project Name:  Blog Web Application
+ Description:  It is a Blog web that will allow users to create and view blog posts.
+ Features:
+ 1. Post Creation: Users should be able to create new posts.
+ 2. Post Viewing: The home page should allow the user to view all their posts.
+ 3. Post Update/Delete: Users should be able to edit and delete posts as needed.
+ Technologies Used: 
+1. Node.js & Express.js: The application will be a web server built using Node.js and Express.js. Express.js will handle routing and middleware.
+2. EJS: EJS is used as the templating engine to generate dynamic HTML based on the application's state.
+Certifications:
+Problem Solving(basic): https://www.hackerrank.com/certificates/83435ccef435 
+Problem Solving(intermediate): https://www.hackerrank.com/certificates/4cd7f8be467a 
+Python(Basic): https://www.hackerrank.com/certificates/a31ad58a4565 
+
